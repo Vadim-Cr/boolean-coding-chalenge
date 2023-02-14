@@ -1,0 +1,75 @@
+
+img
+    {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+
+    }
+
+    
+h1  
+    {
+        text-align: center;
+        color: lime;
+        font-family: Arial, Helvetica, sans-serif;
+    }  
+
+.bar
+    {
+        padding: 0.7em 16px;
+        background-color: rgb(255, 208, 80);
+        border-radius: 3px;
+        width: 40%;
+
+    }
+
+.bar1
+    {
+        padding: 0.7em 16px;
+        background-color: lime;
+        border-radius: 3px;
+        width: 66%;
+    }
+
+.bar2
+    {
+        padding: 0.7em 16px;
+        background-color: rgb(218, 59, 93);
+        border-radius: 3px;
+        width: 17%;
+    }
+
+main
+    {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+nav span
+    {
+        display: block;
+        text-align: center;
+        background-color: lime;
+        padding: 10px;
+    }
+
+body
+    {
+        
+        background-image: url(/challenge/background.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;      
+    }
+
+.container
+    {
+        margin-top: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-bottom: 15%;
+        background-color: rgba(51, 50, 50, 0.384);
+        border-radius: 30px;
+        padding: 50px;
+    }
